@@ -1,0 +1,74 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color:#F5EDE3;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #874C3B;
+    color: #F3D8C7;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.call-to-action {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/* Estilos para o menu */
+.menu {
+    background-color: #F3D8C7;
+    padding: 20px;
+}
+
+.menu-item {
+    margin: 10px 0;
+    color: #874C3B;
+}
+
+/* Estilos para as seções */
+.section {
+    text-align: center;
+    margin: 40px 0;
+    color: #874C3B;
+}
+
+.section img {
+    max-width: 99%;
+    height: 300px;
+}
+
+/* Estilos para a seção de contato */
+.contact {
+    background-color: #874C3B;
+    color: #F3D8C7;
+    text-align: center;
+    padding: 20px;
+}
+.map{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    font-size: 100px;
+}
+.map i{
+    color: #874C3B;
+}
+.menu{
+    color: #874C3B;
+}
+.perfil-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
